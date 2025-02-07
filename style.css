@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Subtle background color */
+    color: #333; /* Dark text color for contrast */
+}
+
+header {
+    background-color: #6a0233;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 1rem;
+}
+
+section {
+    padding: 2rem;
+}
+
+.project {
+    margin-bottom: 2rem;
+    border: 1px solid #ddd;
+    padding: 1rem;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
